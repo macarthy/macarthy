@@ -16,5 +16,17 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on RED GREEN REFACTOR a command line utility to do katas 
+- 🔭 I’m currently working on sat_solver a pure ruby SAT solver (for eductational purposes )
+- 🔭 I’m currently trying out Rails7 using the "The Rails why. Turbolinks, stimulas etc"
+- 🌱 I’m currently learning Haskell, Elixer, Rust  and more 
+- 👯 I’m looking to collaborate on FLOSS projects, 
 
-- 🌱 I’m currently learning ... Elixir 
+- 📫 How to reach me: 
+   - medium.com/macarthy
+   - twitter/macarthy
+
+- Come challange me to a code war ! 
+   - https://www.codewars.com/users/macarthy/
+   - https://app.codesignal.com/profile/macarthy    
+   - https://www.codingame.com/profile/e395df2aeca696784ed10697dc96837e5648134
+
