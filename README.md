@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on RED GREEN REFACTOR a command line utility to do katas 
 - 🔭 I’m currently working on sat_solver a pure ruby SAT solver (for eductational purposes )
-- 🔭 I’m currently trying out Rails7 using the "The Rails why. Turbolinks, stimulas etc"
+- 🔭 I’m currently trying out Rails7 using the "The Rails way. Turbolinks, stimulas etc. No react or whatever "
 - 🌱 I’m currently learning Haskell, Elixer, Rust  and more 
 - 👯 I’m looking to collaborate on FLOSS projects, 
 
