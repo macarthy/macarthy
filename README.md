@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on FLOSS projects, 
 
 - 📫 How to reach me: 
-   - medium.com/macarthy
-   - twitter/macarthy
-
+   - http://medium.com/macarthy
+   - http://twitter/macarthy
+   - http://linkedin.com/in/greatdeveloper
+   - http://www.justinmaccarthy.com
+   
 - Come challange me to a code war ! 
    - https://www.codewars.com/users/macarthy/
    - https://app.codesignal.com/profile/macarthy    
